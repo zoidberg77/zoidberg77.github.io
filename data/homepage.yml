@@ -120,6 +120,20 @@ testimonial:
       image:
         x: "img/testimonials/torsten.jpg"
         _2x: "img/testimonials/torsten.jpg"
+    - name: "Lorenz Kummer, BSc"
+      position: "Research Group Theory and Application of Algorithms, Researcher"
+      content: "I have been studying and working with Kevin for the last 4 years 
+      at the University of Vienna and i have rarely met people as motivated, capable 
+      and reliable as him. Interested in a wide area of fields way beyond the scope 
+      of the regular computer sciene curriculum, he is always seeking to improve his 
+      knowledge and himself and i have no doubt he will excell at whatever career 
+      path he chooses. And last but not least, any testimonial about Kevin that doesnt 
+      mention is humor is incomplete: always up for a joke, working with Kevin never gets boring."
+      image:
+        x: "img/testimonials/lorenz.jpg"
+        _2x: "img/testimonials/lorenz.jpg"
+
+
 
 # contact
 contact:
