@@ -1,0 +1,145 @@
+# showcase
+showcase:
+  enable: true
+  title: "Hello, I’m Kevin."
+  subtitle: "Computer Scientist"
+  description: "Welcome to my site. No matter what you searched for you are definitely in the wrong place."
+  image:
+    x: "img/who-am-i/profil_pic2.png"
+    _2x: "img/who-am-i/profil_pic2.png"
+  imageMobile:
+    x: "img/who-am-i/profil_pic2.png"
+
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Contact"
+    URL: "https://ufind.univie.ac.at/de/person.html?id=103530"
+
+  socialLinks:
+    - icon: "linkedin"
+      URL: "https://www.linkedin.com/in/kevin-sidak-104724193/"
+
+    - icon: "github"
+      URL: "https://github.com/zoidberg77"
+
+    - icon: "youtube"
+      URL: "https://www.youtube.com/channel/UCCcNmRCXqG6Gb5rIcg9rq-w"
+
+# about
+about:
+  enable: true
+  title: "Who am I?"
+  content: "I work at the <a target='_blank' href='https://www.univie.ac.at/'>University of Vienna</a>, at the Faculty of Computer Science and at the <a target='_blank' href='https://www.imba.oeaw.ac.at/'>Institute for Molecular Biotechnology</a>. My intressts lie in the fields of Data Science, Supervised and Unsupervised Learning, Biomedical Image Analysis."
+  button:
+    icon: "icon-smile-fill"
+    btnText: "About Me"
+    URL: "https://www.linkedin.com/in/kevin-sidak-104724193/"
+  image:
+    x: "img/who-am-i/tweenties.png"
+    _2x: "img/who-am-i/tweenties.png"
+
+# education
+education:
+  enable: true
+  title: "Education"
+  items:
+    - university: "University of Vienna"
+      year: "2016-2020"
+      degree: "Bachelor of Science (BSc), Computer Science"
+
+    - university: "University of Vienna"
+      year: "2015-today"
+      degree: "Bachelor of Science (BSc), Biology"
+
+    - university: "University of Vienna"
+      year: "2012"
+      degree: "Bachelor of Science (BSc), Computer Science, Accepted during my last two high school years."
+
+    - university: "Bernoulligymnasium, Vienna"
+      year: "2005-2013"
+      degree: "High School Diploma, Major: Applied Geometry and Mathematics"
+
+# experience
+experience:
+  enable: true
+  title: "Experience"
+  description: "I have about 10 years of experience working in the Fields of Computer Science and Biology"
+  button:
+    icon: "icon-linkedin-fill"
+    btnText: "Linkedin"
+    URL: "https://www.linkedin.com/in/kevin-sidak-104724193/"
+  button2:
+    icon: "icon-profile-fill"
+    btnText: "Download My Resume"
+    URL: "#"
+
+  items:
+
+    - title: "Computer Scientist"
+      company: "Institute for Molecular Biotechnologies"
+      duration: "2019 - "
+
+    - title: "Research Developer/Researcher/Teaching Assistent"
+      company: "University of Vienna"
+      duration: "2018 - "
+
+    - title: "Developer/Management/Systemadministrator"
+      company: "Marmara IT"
+      duration: "2018 - "
+
+    - title: "Chairman of the Faculties Students Union"
+      company: "Faculty of Computer Science, University of Vienna"
+      duration: "2017 - "
+
+    - title: "Head of IT"
+      company: "Metis-Openlab"
+      duration: "2016 - 2018"
+
+    - title: "Microbiologist"
+      company: "Baxter"
+      duration: "2015"
+
+    - title: "Systemadministrator and Developer"
+      company: "Riskexperts"
+      duration: "2013 - 2017"
+
+    - title: "Sciencepool"
+      company: "Sciencepool"
+      duration: "2010 - 2015"
+
+# testimonial
+testimonial:
+  enable: true
+  title: "Testimonials"
+  items:
+    - name: "Univ.-Prof. Torsten Möller, PhD"
+      position: "Research Group Visualization and Data Analysis, Head"
+      content: "Kevin is amazing. He is not just industrious, with great ideas, he is also a very friendly, helpful and
+      smart person.[...] But most importantly, Kevin is a jolly fellow, always with a smile, always happy to help, always nice to
+      be around."
+      image:
+        x: "img/testimonials/torsten.jpg"
+        _2x: "img/testimonials/torsten.jpg"
+
+# contact
+contact:
+  enable: true
+  title: "Contact"
+  form:
+    action: "#"
+    full_name: "Full Name"
+    email: "Email Address"
+    message: "Type Your Message Here"
+  phone:
+    title: "Phone Number"
+    number: "+43 664 2740382"
+  email:
+    title: "Email"
+    email: '<a href="mailto:kevin@sidak.xyz">kevin@sidak.xyz</a>'
+  address:
+    title: "Address"
+    address: "Kevin Sidak, Pilotengasse 15/1/6, 1220 Wien"
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Send Message"
+
