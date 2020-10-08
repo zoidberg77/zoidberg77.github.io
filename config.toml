@@ -1,6 +1,7 @@
 baseURL = "https://zoidberg77.github.io/"
 languageCode = "en-us"
 theme = "raditian-free-hugo-theme"
+publishDir = "docs"
 
 # Plugins
 [params.plugins]
