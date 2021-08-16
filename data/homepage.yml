@@ -74,10 +74,14 @@ experience:
     URL: "#"
 
   items:
+  
+    - title: "Research Intern"
+      company: "Harvard University"
+      duration: "2020 - "
 
     - title: "Computer Scientist"
       company: "Institute for Molecular Biotechnologies"
-      duration: "2019 - "
+      duration: "2019 - 2020"
 
     - title: "Research Developer/Researcher/Teaching Assistent"
       company: "University of Vienna"
