@@ -75,7 +75,7 @@ experience:
   button2:
     icon: "icon-profile-fill"
     btnText: "Download My Resume"
-    URL: "#"
+    URL: "img/cv.pdf"
 
   items:
   
