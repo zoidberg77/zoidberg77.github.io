@@ -5,10 +5,10 @@ showcase:
   subtitle: "Computer Scientist"
   description: "Welcome to my site. No matter what you searched for you are definitely in the wrong place."
   image:
-    x: "img/who-am-i/profil_pic2.png"
-    _2x: "img/who-am-i/profil_pic2.png"
+    x: "img/who-am-i/profil.jpg"
+    _2x: "img/who-am-i/profil.jpg"
   imageMobile:
-    x: "img/who-am-i/profil_pic2.png"
+    x: "img/who-am-i/profil.jpg"
 
   button:
     icon: "icon-mail-fill"
@@ -29,11 +29,7 @@ showcase:
 about:
   enable: true
   title: "Who am I?"
-  content: "I work at University of Vienna, <a href='http://vda.univie.ac.at/'>at 
-  Research Group Visualization and Data Analysis</a> and at Harvard University, 
-  at <a href='https://vcg.seas.harvard.edu/'>VCG Group</a>. 
-  My intressts lie in the fields of Data Science, Supervised and 
-  Unsupervised Learning, Biomedical Image Analysis."
+  content: "I work at University of Vienna, <a href='http://vda.univie.ac.at/'>at Research Group Visualization and Data Analysis</a> and at Harvard University, at <a href='https://vcg.seas.harvard.edu/'>VCG Group</a>. My intressts lie in the fields of Data Science, Supervised and Unsupervised Learning, Biomedical Image Analysis."
   button:
     icon: "icon-smile-fill"
     btnText: "About Me"
