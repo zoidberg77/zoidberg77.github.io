@@ -29,7 +29,7 @@ showcase:
 about:
   enable: true
   title: "Who am I?"
-  content: "I work at University of Vienna, <a href='http://vda.univie.ac.at/'>at Research Group Visualization and Data Analysis</a> and at Harvard University, at <a href='https://vcg.seas.harvard.edu/'>VCG Group</a>. My intressts lie in the fields of Data Science, Supervised and Unsupervised Learning, Biomedical Image Analysis."
+  content: "I work at University of Vienna, at <a href='http://vda.univie.ac.at/'>Research Group Visualization and Data Analysis</a> and at Harvard University, at <a href='https://vcg.seas.harvard.edu/'>VCG Group</a>. My intressts lie in the fields of Data Science, Supervised and Unsupervised Learning, Biomedical Image Analysis."
   button:
     icon: "icon-smile-fill"
     btnText: "About Me"
