@@ -1,4 +1,4 @@
-baseURL = "https://sidak.xyz/"
+baseURL = "https://www.sidak.xyz/"
 languageCode = "en-us"
 theme = "raditian-free-hugo-theme"
 #publishDir = "docs"
