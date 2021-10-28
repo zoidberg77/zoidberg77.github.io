@@ -5,10 +5,10 @@ showcase:
   subtitle: "Computer Scientist"
   description: "Welcome to my site. No matter what you searched for you are definitely in the wrong place."
   image:
-    x: "img/who-am-i/profil.jpg"
-    _2x: "img/who-am-i/profil.jpg"
+    x: "img/who-am-i/profil.png"
+    _2x: "img/who-am-i/profil.png"
   imageMobile:
-    x: "img/who-am-i/profil.jpg"
+    x: "img/who-am-i/profil.png"
 
   button:
     icon: "icon-mail-fill"
