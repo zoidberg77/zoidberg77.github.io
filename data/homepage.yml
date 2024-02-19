@@ -152,9 +152,6 @@ contact:
     full_name: "Full Name"
     email: "Email Address"
     message: "Type Your Message Here"
-  phone:
-    title: "Phone Number"
-    number: "+43 664 2740382"
   email:
     title: "Email"
     email: '<a href="mailto:kevin@sidak.xyz">kevin@sidak.xyz</a>'
